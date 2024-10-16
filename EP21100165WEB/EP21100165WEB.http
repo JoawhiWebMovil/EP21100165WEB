@@ -1,0 +1,6 @@
+@EP21100165WEB_HostAddress = http://localhost:5155
+
+GET {{EP21100165WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
